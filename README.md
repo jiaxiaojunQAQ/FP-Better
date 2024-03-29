@@ -22,10 +22,14 @@ Overview of our FP-Better.
 - pytorch, etc.
 
 ## Train
-> python3.6 FGSM_DSD_cifar10.py  --out_dir ./output/ --data-dir cifar-data
-
+```
+python3.6 FGSM_DSD_cifar10.py  --out_dir ./output/ --data-dir cifar-data
+```
 
 ## Test
-> python3.6 test_cifar10.py --model_path model.pth --out_dir ./output/ --data-dir cifar-data
+```
+python3.6 test_cifar10.py --model_path model.pth --out_dir ./output/ --data-dir cifar-data
+```
+
 ## Trained Models
 > The Trained models can be downloaded from the [Baidu Cloud](https://pan.baidu.com/s/1MZeV6fsSr6zdX9VMXQGonw)(Extraction: 1234) or the [Google Drive](https://drive.google.com/drive/folders/13v1-Wpkwu5Qj4Pq9OAQV0BCu61iyjW2w?usp=sharing)

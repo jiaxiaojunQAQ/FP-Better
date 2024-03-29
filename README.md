@@ -8,7 +8,7 @@
 </p>
 
 ## Introduction
-![Adversarial example generation of the proposed FGSM-SDI](/imgs/FP_Better.PNG)
+![Adversarial example generation of the proposed FGSM-SDI](/imgs/FP_Better.png)
 <p align="center">
 Overview of our FP-Better. 
 </p>
